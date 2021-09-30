@@ -1,5 +1,5 @@
 git+https://github.com/hikari-py/hikari#egg=hikari[speedups]
-git+https://github.com/FasterSpeeding/Tanjun
-git+https://github.com/FasterSpeeding/Sake
+git+https://github.com/FasterSpeeding/Sake@task/raw-dispatch
+hikari-lightbulb~=1.4.0
 lavasnek-rs~=0.1.0a0
 uvloop>=0.15.2; sys_platform != "nt"
